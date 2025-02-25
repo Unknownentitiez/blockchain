@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Unknown_Entity</h1>
 <h3 align="center">We are a team of Blockchain Learner from Nowhere.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasvr" alt="tejasvr" /></a> </p>
+
 
 - 🔭We are currently working on **building a Better Blockchain with my team.**
 
