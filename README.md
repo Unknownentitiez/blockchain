@@ -7,7 +7,7 @@
 
 - 🌱 We're currently learning **Blockchain Development.**
 
-- 👨‍💻 All of my projects are available at [on GitHub.]
+- 👨‍💻 All of my projects are available [on GitHub.]
 
 - 📫 How to reach me **unknowngaming2.0xtejasv@gmail.com**
 
